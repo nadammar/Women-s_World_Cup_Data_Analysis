@@ -17,12 +17,12 @@ This project focuses on analyzing the **2019 FIFA Women's World Cup**, specifica
 ## Key Features
 
 - **Competition-level visualizations:** Number of wins, draws, and losses per team; goal difference charts
-  <img src="images/competition1.jpg" alt="competition" width="400"/>
+  <img src="images/competition1.jpg" alt="competition" width="500"/>
 - **Match-level analysis:** Shot maps with xG and shot technique, shot body part distribution, xG over time
-  <img src="images/xg1.jpg" alt="match" width="400"/>
+  <img src="images/xg1.jpg" alt="match" width="500"/>
 - **Player performance:** Histograms of shot xG values, pass completion rates, and pass networks  
-- Clean charts created using Matplotlib, Seaborn, and Plotly
-  <img src="images/meganpasses.jpg" alt="player" width="400"/>
+  Clean charts created using Matplotlib, Seaborn, and Plotly
+  <img src="images/meganpasses.jpg" alt="player" width="500"/>
 
 ## Data Source
 
