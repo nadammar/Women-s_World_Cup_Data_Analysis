@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing the **2019 FIFA Women's World Cup**, specifically the final match between the **United States** and the **Netherlands**. The goal is to explore team and player performances through data visualizations and initial insights using data sourced from the **StatsBomb API**[StatsBomb](https://statsbomb.com/).
+This project focuses on analyzing the **2019 FIFA Women's World Cup**, specifically the final match between the **United States** and the **Netherlands**. The goal is to explore team and player performances through data visualizations and initial insights using data sourced from the [**StatsBomb API**](https://statsbomb.com/).
 
 ![world cup 2019](images/usa.jpg)
 
@@ -17,7 +17,7 @@ This project focuses on analyzing the **2019 FIFA Women's World Cup**, specifica
 ## Key Features
 
 - **Competition-level visualizations:** Number of wins, draws, and losses per team; goal difference charts
-  ![competition](images/comprtition1.jpg)
+  ![competition](images/competition1.jpg)
 - **Match-level analysis:** Shot maps with xG and shot technique, shot body part distribution, xG over time
   ![match](images/xg1.jpg)
 - **Player performance:** Histograms of shot xG values, pass completion rates, and pass networks  
